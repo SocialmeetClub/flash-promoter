@@ -8,6 +8,9 @@ This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1VaRoEJxKcAAjmleh4Ryq8nKVbC_AnzGN
 
+If the demo link in Google AI Studio doesn’t work due to privacy restrictions or frequent component updates, please use this link instead: https://funfanreporter-live-223594773840.us-central1.run.app/
+
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
